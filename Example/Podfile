@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BKLCatagory_Example' do
+  pod 'BKLCatagory', :path => '../'
+
+  target 'BKLCatagory_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
