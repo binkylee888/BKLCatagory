@@ -1,0 +1,16 @@
+PODS:
+  - BKLCatagory (0.0.1)
+
+DEPENDENCIES:
+  - BKLCatagory (from `../`)
+
+EXTERNAL SOURCES:
+  BKLCatagory:
+    :path: ../
+
+SPEC CHECKSUMS:
+  BKLCatagory: b630ef54d72085ae4eef462ef5437569852af5c8
+
+PODFILE CHECKSUM: 693bc7cf19579ca08dba90dd077b772dd89602a4
+
+COCOAPODS: 1.2.0

@@ -1,0 +1,6 @@
+framework module BKLCatagory {
+  umbrella header "BKLCatagory-umbrella.h"
+
+  export *
+  module * { export * }
+}
